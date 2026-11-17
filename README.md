@@ -6,7 +6,7 @@ A custom Minecraft resource pack designed for Crystal PvP.
 ## ✨ Features
 
 - Custom End Crystals
-- Custom Totems
+- Custom DrDonutt Meow Totem
 - Custom Swords
 - Custom Golden Apples
 - Custom Ender Pearls
